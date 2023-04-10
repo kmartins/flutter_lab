@@ -5,8 +5,8 @@
 O desafio consiste em criar uma loja de produtos com variadas categorias onde o usuário é capaz de adicionar e remover os itens em um carrinho de compras e finalizar o mesmo.
 
 <p align="center">
-  <img src="images/produtos.png" width="100" />
-  <img src="images/carrinho.png" width="100" />
+  <img src="images/produtos.png" width="200" />
+  <img src="images/carrinho.png" width="200" />
 </p>
 
 ## Começar
@@ -70,7 +70,7 @@ A resposta é uma lista com os seguintes atributos:
     "title": "Mochila",
     "brand": "squiggle",
     "category": "Acessórios",
-    "thumbnail": "https://raw.githubusercontent.com/kmartins/flutter_lab/main/desafios/shopex/api/photo_0.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/kmartins/flutter_lab/main/desafios/shopex/api/res/thumbnail_0.jpg",
     "price": 12000
 },
 ```
@@ -87,7 +87,7 @@ Agora se você tiver alguma dúvida ou precisar de alguma ajuda para realizar es
  
 ## Licença
 
-Esse projeto foi baseado no Shrine[shrine] e tem apenas o intuito de ser usado como instrumento de aprendizado.
+Esse projeto foi baseado no [Shrine][shrine] e tem apenas o intuito de ser usado como instrumento de aprendizado.
 
 Copyright © 2023 [Kauê Martins](https://github.com/kmartins).<br />
 This project is [MIT](https://opensource.org/licenses/MIT) licensed.
