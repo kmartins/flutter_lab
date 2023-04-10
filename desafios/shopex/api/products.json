@@ -1,0 +1,306 @@
+[
+  {
+    "id": 1,
+    "title": "Mochila",
+    "brand": "squiggle",
+    "category": "Acessórios",
+    "thumbnail": "https://raw.githubusercontent.com/kmartins/flutter_lab/main/desafios/shopex/api/res/thumbnail_0.jpg",
+    "price": 12000
+  },
+  {
+    "id": 2,
+    "title": "Óculos de sol Stella",
+    "brand": "MAL",
+    "category": "Acessórios",
+    "thumbnail": "https://raw.githubusercontent.com/kmartins/flutter_lab/main/desafios/shopex/api/res/thumbnail_1.jpg",
+    "price": 5800
+  },
+  {
+    "id": 3,
+    "title": "Cinto Whitney",
+    "brand": "LMBRJK",
+    "category": "Acessórios",
+    "thumbnail": "https://raw.githubusercontent.com/kmartins/flutter_lab/main/desafios/shopex/api/res/thumbnail_2.jpg",
+    "price": 3500
+  },
+  {
+    "id": 4,
+    "title": "Suporte de jardim",
+    "brand": "alpi",
+    "category": "Acessórios",
+    "thumbnail": "https://raw.githubusercontent.com/kmartins/flutter_lab/main/desafios/shopex/api/res/thumbnail_3.jpg",
+    "price": 9800
+  },
+  {
+    "id": 5,
+    "title": "Brincos",
+    "brand": "6",
+    "category": "Acessórios",
+    "thumbnail": "https://raw.githubusercontent.com/kmartins/flutter_lab/main/desafios/shopex/api/res/thumbnail_4.jpg",
+    "price": 3400
+  },
+   {
+    "id": 6,
+    "title": "Meias do time do colégio",
+    "brand": "LMBRJK",
+    "category": "Acessórios",
+    "thumbnail": "https://raw.githubusercontent.com/kmartins/flutter_lab/main/desafios/shopex/api/res/thumbnail_5.jpg",
+    "price": 1200
+  },
+  {
+    "id": 7,
+    "title": "Chaveiro trançado",
+    "brand": "6",
+    "category": "Acessórios",
+    "thumbnail": "https://raw.githubusercontent.com/kmartins/flutter_lab/main/desafios/shopex/api/res/thumbnail_6.jpg",
+    "price": 1600
+  },
+  {
+    "id": 8,
+    "title": "Chapéu Gatsby",
+    "brand": "6",
+    "category": "Acessórios",
+    "thumbnail": "https://raw.githubusercontent.com/kmartins/flutter_lab/main/desafios/shopex/api/res/thumbnail_7.jpg",
+    "price": 4000
+  },
+  {
+    "id": 9,
+    "title": "Bolsa de ombro",
+    "brand": "squiggle",
+    "category": "Acessórios",
+    "thumbnail": "https://raw.githubusercontent.com/kmartins/flutter_lab/main/desafios/shopex/api/res/thumbnail_8.jpg",
+    "price": 19800
+  },
+  {
+    "id": 10,
+    "title": "Trio de mesa dourada",
+    "brand": "alphi",
+    "category": "Casa",
+    "thumbnail": "https://raw.githubusercontent.com/kmartins/flutter_lab/main/desafios/shopex/api/res/thumbnail_9.jpg",
+    "price": 5800
+  },
+   {
+    "id": 11,
+    "title": "Cremalheira de fio de cobre",
+    "brand": "alphi",
+    "category": "Casa",
+    "thumbnail": "https://raw.githubusercontent.com/kmartins/flutter_lab/main/desafios/shopex/api/res/thumbnail_10.jpg",
+    "price": 1800
+  },
+  {
+    "id": 12,
+    "title": "Conjunto de cerâmica",
+    "brand": "MAL",
+    "category": "Casa",
+    "thumbnail": "https://raw.githubusercontent.com/kmartins/flutter_lab/main/desafios/shopex/api/res/thumbnail_11.jpg",
+    "price":2800
+  },
+  {
+    "id": 13,
+    "title": "Jogo de chá Hurrahs",
+    "brand": "6",
+    "category": "Casa",
+    "thumbnail": "https://raw.githubusercontent.com/kmartins/flutter_lab/main/desafios/shopex/api/res/thumbnail_12.jpg",
+    "price": 3400
+  },
+  {
+    "id": 14,
+    "title": "Caneca de pedra azul",
+    "brand": "MAL",
+    "category": "Casa",
+    "thumbnail": "https://raw.githubusercontent.com/kmartins/flutter_lab/main/desafios/shopex/api/res/thumbnail_13.jpg",
+    "price": 1800
+  },
+  {
+    "id": 15,
+    "title": "Bandeja de água da chuva",
+    "brand": "MAL",
+    "category": "Casa",
+    "thumbnail": "https://raw.githubusercontent.com/kmartins/flutter_lab/main/desafios/shopex/api/res/thumbnail_14.jpg",
+    "price": 2700
+  },
+  {
+    "id": 16,
+    "title": "Guardanapos Cambraia",
+    "brand": "6",
+    "category": "Casa",
+    "thumbnail": "https://raw.githubusercontent.com/kmartins/flutter_lab/main/desafios/shopex/api/res/thumbnail_15.jpg",
+    "price": 1600
+  },
+  {
+    "id": 17,
+    "title": "Jardim de suculentas",
+    "brand": "alphi",
+    "category": "Casa",
+    "thumbnail": "https://raw.githubusercontent.com/kmartins/flutter_lab/main/desafios/shopex/api/res/thumbnail_16.jpg",
+    "price": 1600
+  },
+   {
+    "id": 18,
+    "title": "Mesa de quarteto",
+    "brand": "squiggle",
+    "category": "Casa",
+    "thumbnail": "https://raw.githubusercontent.com/kmartins/flutter_lab/main/desafios/shopex/api/res/thumbnail_17.jpg",
+    "price": 17500
+  },
+   {
+    "id": 19,
+    "title": "Cozinha Quattro",
+    "brand": "alphi",
+    "category": "Casa",
+    "thumbnail": "https://raw.githubusercontent.com/kmartins/flutter_lab/main/desafios/shopex/api/res/thumbnail_18.jpg",
+    "price": 12900
+  },
+   {
+    "id": 20,
+    "title": "Suéter de barro",
+    "brand": "LMBRJK",
+    "category": "Roupa",
+    "thumbnail": "https://raw.githubusercontent.com/kmartins/flutter_lab/main/desafios/shopex/api/res/thumbnail_19.jpg",
+    "price": 4800
+  },
+  {
+    "id": 21,
+    "title": "Camiseta do mar",
+    "brand": "LMBRJK",
+    "category": "Roupa",
+    "thumbnail": "https://raw.githubusercontent.com/kmartins/flutter_lab/main/desafios/shopex/api/res/thumbnail_20.jpg",
+    "price": 4500
+  },
+  {
+    "id": 22,
+    "title": "Camiseta de gesso",
+    "brand": "LMBRJK",
+    "category": "Roupa",
+    "thumbnail": "https://raw.githubusercontent.com/kmartins/flutter_lab/main/desafios/shopex/api/res/thumbnail_21.jpg",
+    "price": 3800
+  },
+  {
+    "id": 23,
+    "title": "Camisa branca risca de giz",
+    "brand": "LMBRJK",
+    "category": "Roupa",
+    "thumbnail": "https://raw.githubusercontent.com/kmartins/flutter_lab/main/desafios/shopex/api/res/thumbnail_22.jpg",
+    "price": 7000
+  },
+  {
+    "id": 24,
+    "title": "Camisa cambraia",
+    "brand": "LMBRJK",
+    "category": "Roupa",
+    "thumbnail": "https://raw.githubusercontent.com/kmartins/flutter_lab/main/desafios/shopex/api/res/thumbnail_23.jpg",
+    "price": 7000
+  },
+  {
+    "id": 25,
+    "title": "Suéter seabreeze",
+    "brand": "LMBRJK",
+    "category": "Roupa",
+    "thumbnail": "https://raw.githubusercontent.com/kmartins/flutter_lab/main/desafios/shopex/api/res/thumbnail_24.jpg",
+    "price": 6000
+  },
+  {
+    "id": 26,
+    "title": "Jaqueta Gentry",
+    "brand": "ZGW",
+    "category": "Roupa",
+    "thumbnail": "https://raw.githubusercontent.com/kmartins/flutter_lab/main/desafios/shopex/api/res/thumbnail_25.jpg",
+    "price": 17800
+  },
+  {
+    "id": 27,
+    "title": "Calças da marinha",
+    "brand": "ZGW",
+    "category": "Roupa",
+    "thumbnail": "https://raw.githubusercontent.com/kmartins/flutter_lab/main/desafios/shopex/api/res/thumbnail_26.jpg",
+    "price": 7400
+  },
+  {
+    "id": 28,
+    "title": "Camisa branca",
+    "brand": "droplet",
+    "category": "Roupa",
+    "thumbnail": "https://raw.githubusercontent.com/kmartins/flutter_lab/main/desafios/shopex/api/res/thumbnail_27.jpg",
+    "price": 3800
+  },
+  {
+    "id": 29,
+    "title": "Camisa",
+    "brand": "LMBRJK",
+    "category": "Roupa",
+    "thumbnail": "https://raw.githubusercontent.com/kmartins/flutter_lab/main/desafios/shopex/api/res/thumbnail_28.jpg",
+    "price": 4800
+  },
+  {
+    "id": 30,
+    "title": "Cachecol",
+    "brand": "LMBRJK",
+    "category": "Roupa",
+    "thumbnail": "https://raw.githubusercontent.com/kmartins/flutter_lab/main/desafios/shopex/api/res/thumbnail_29.jpg",
+    "price": 9800
+  },
+  {
+    "id": 31,
+    "title": "Blusa",
+    "brand": "droplet",
+    "category": "Roupa",
+    "thumbnail": "https://raw.githubusercontent.com/kmartins/flutter_lab/main/desafios/shopex/api/res/thumbnail_30.jpg",
+    "price": 6800
+  },
+  {
+    "id": 32,
+    "title": "Camisa cambraia",
+    "brand": "y23",
+    "category": "Roupa",
+    "thumbnail": "https://raw.githubusercontent.com/kmartins/flutter_lab/main/desafios/shopex/api/res/thumbnail_31.jpg",
+    "price": 3800
+  },
+  {
+    "id": 33,
+    "title": "Colarinho branco classe",
+    "brand": "LMBRJK",
+    "category": "Roupa",
+    "thumbnail": "https://raw.githubusercontent.com/kmartins/flutter_lab/main/desafios/shopex/api/res/thumbnail_32.jpg",
+    "price": 5800
+  },
+  {
+    "id": 34,
+    "title": "Camiseta vieira cerise",
+    "brand": "LMBRJK",
+    "category": "Roupa",
+    "thumbnail": "https://raw.githubusercontent.com/kmartins/flutter_lab/main/desafios/shopex/api/res/thumbnail_33.jpg",
+    "price": 4200
+  },
+  {
+    "id": 35,
+    "title": "Camiseta",
+    "brand": "y23",
+    "category": "Roupa",
+    "thumbnail": "https://raw.githubusercontent.com/kmartins/flutter_lab/main/desafios/shopex/api/res/thumbnail_34.jpg",
+    "price": 2700
+  },
+  {
+    "id": 36,
+    "title": "Regata",
+    "brand": "LMBRJK",
+    "category": "Roupa",
+    "thumbnail": "https://raw.githubusercontent.com/kmartins/flutter_lab/main/desafios/shopex/api/res/thumbnail_35.jpg",
+    "price": 2400
+  },
+  {
+    "id": 37,
+    "title": "Vestido de sol",
+    "brand": "ZGW",
+    "category": "Roupa",
+    "thumbnail": "https://raw.githubusercontent.com/kmartins/flutter_lab/main/desafios/shopex/api/res/thumbnail_36.jpg",
+    "price": 5800
+  },
+  {
+    "id": 38,
+    "title": "Camiseta linhas finas",
+    "brand": "LMBRJK",
+    "category": "Roupa",
+    "thumbnail": "https://raw.githubusercontent.com/kmartins/flutter_lab/main/desafios/shopex/api/res/thumbnail_37.jpg",
+    "price": 5800
+  }
+]

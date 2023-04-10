@@ -1,0 +1,7 @@
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+    - use_super_parameters
+    - prefer_single_quotes
+    - require_trailing_commas
