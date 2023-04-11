@@ -22,14 +22,11 @@ O projeto se encontra no seu modelo mais básico e apenas com o tema configurado
 - Listar todos os produtos conforme a categoria selecionada;
 - Ao adicionar um produto, ele deve aparecer no carrinho, o `badge` do botão de ação do carrinho deve ser atualizado conforme os produtos vão sendo adicionados e removidos;
 - Listar produtos que estão no carrinho;
-- Adicionar, remover e limpar produtos do carrinho;
+- Remover e limpar produtos do carrinho;
 - Ao zerar a quantidade de um produto do carrinho, ele deve sumir;
 - Caso aconteça um erro ao buscar os produtos, uma mensagem de erro deve ser exibida;
 - Quando o carrinho estiver vazio, uma mensagem deve ser exibida;
 - Ao pagar uma compra, um diálogo de sucesso deve ser exibido, todos os produtos são removidos do carrinho e o usuário volta para a tela de produtos;
-- Siga o `design` proposto;
-- Não haver nenhum problema com a **formatação do código**(`dart format --set-exit-if-changed .`);
-- A **análise estática** não deve encontrar nenhum problema no código(`dart analyze --fatal-infos --fatal-warnings lib test`).
 
 ## Tarefas adicionais
 
@@ -38,13 +35,13 @@ O projeto se encontra no seu modelo mais básico e apenas com o tema configurado
 - Teste de unidade e de `widgets`;
 - Versão `web` responsiva.
 
-# Design
+## Design
 
-O `mockup` se encontra no `Figma`, acesse [aqui][figma] para visualizar, lá você pode verificar tamanhos, espaçamentos, cores, entre outros recursos.
+O `mockup` se encontra no `Figma`, acesse [aqui][figma] para visualizar, lá você pode verificar tamanhos, espaçamentos, cores, protótipo, entre outros recursos.
 
 O tema já está configurado e usa o `Material3`(`src/res/color_schemes.dart`) porém o **estilo de texto**, foi deixado como uma tarefa à ser feita, no arquivo do `figma` você pode encontrar todas as informações.
 
-# Arquitetura 
+## Arquitetura 
 
 Recomendo fortemente para esse desafio seguir como base o [Clean Dart][clean_dart].
 
@@ -74,6 +71,16 @@ A resposta é uma lista com os seguintes atributos:
     "price": 12000
 },
 ```
+
+## Pontos avaliados
+
+- Funcionalidades;
+- Arquitetura
+- UI/UX;
+- Formatação do código(`dart format --set-exit-if-changed .`);
+- Análise estática do código(`dart analyze --fatal-infos --fatal-warnings lib test`);
+- Organização dos `widgets`;  
+- Organização das `Strings`.
 
 ## Dúvidas, feedbacks e suporte
 
