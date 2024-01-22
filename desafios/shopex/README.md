@@ -13,7 +13,7 @@ O desafio consiste em criar uma loja de produtos com variadas categorias onde o 
 
 Para iniciar faça um `fork` neste repositório e após o termino do desenvolvimento, realize um `Pull Request` para análise.
 
-A menor versão do `Flutter` para ser executado esse projeto é a `3.7.10`.
+A menor versão do `Flutter` para ser executado esse projeto é a `3.16.0`.
 
 O projeto se encontra no seu modelo mais básico e apenas com o tema configurado.
 
@@ -96,10 +96,10 @@ Agora se você tiver alguma dúvida ou precisar de alguma ajuda para realizar es
 
 Esse projeto foi baseado no [Shrine][shrine] e tem apenas o intuito de ser usado como instrumento de aprendizado.
 
-Copyright © 2023 [Kauê Martins](https://github.com/kmartins).<br />
+Copyright © 2024 [Kauê Martins](https://github.com/kmartins).<br />
 This project is [MIT](https://opensource.org/licenses/MIT) licensed.
 
-[badge_flutter_version]: https://img.shields.io/badge/flutter-v3.7.10-blue?logo=flutter
+[badge_flutter_version]: https://img.shields.io/badge/flutter-v3.16.0-blue?logo=flutter
 [clean_data]: https://github.com/Flutterando/Clean-Dart
 [figma]: https://www.figma.com/file/q0k6kr1hhWoJOhhwQWS1ZQ/Shopex?node-id=6%3A3487&t=EeIKhl1atZWL56jj-1
 [shrine]: https://m2.material.io/design/material-studies/shrine.html

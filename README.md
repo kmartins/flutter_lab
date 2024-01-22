@@ -23,7 +23,7 @@ Agora se você tiver alguma dúvida ou precisar de alguma ajuda para realizar os
  
 ## Licença
 
-Copyright © 2023 [Kauê Martins](https://github.com/kmartins).<br />
+Copyright © 2024 [Kauê Martins](https://github.com/kmartins).<br />
 This project is [MIT](https://opensource.org/licenses/MIT) licensed.
 
 [shopex]: https://github.com/kmartins/flutter_lab/tree/main/desafios/shopex
